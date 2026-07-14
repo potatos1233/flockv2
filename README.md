@@ -17,3 +17,5 @@ contact
 Contact me through issues. Don't be brain-dead if you have an import issue. Just download the requirements if you don't want to make a venv, just put --break-system-packages
 
 [test video](https://files.catbox.moe/fw7b1z.mp4)
+
+<video src="https://files.catbox.moe/fw7b1z.mp4" width="250" controls crossorigin="anonymous"></video>
