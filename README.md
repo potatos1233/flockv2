@@ -16,9 +16,9 @@ contact
 
 Contact me through issues. Don't be brain-dead if you have an import issue. Just download the requirements if you don't want to make a venv, just put --break-system-packages
 
-test video i used 
+ TEST VIDEO
 
-<img src="https://raw.githubusercontent.com/potatos1233/flockv2/refs/heads/main/testvideo.mp4" width="250" />
+<img src="https://files.catbox.moe/fw7b1z.mp4" width="250" />
 
 
 
