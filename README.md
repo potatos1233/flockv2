@@ -18,6 +18,5 @@ Contact me through issues. Don't be brain-dead if you have an import issue. Just
 
  TEST VIDEO
 
-<video src="https://files.catbox.moe/fw7b1z.mp4" width="250" controls></video>
-
+<video src="https://files.catbox.moe/fw7b1z.mp4" width="250" controls crossorigin="anonymous"></video>
 
