@@ -18,4 +18,4 @@ Contact me through issues. Don't be brain-dead if you have an import issue. Just
 
  TEST VIDEO
 
-<a href="https://files.catbox.moe/fw7b1z.mp4"><img src="YOUR_POSTER_IMAGE.jpg" width="250"></a>
+<video src="https://raw.githubusercontent.com/potatos1233/flockv2/refs/heads/main/testvideo.mp4" width="250" controls crossorigin="anonymous"></video>
